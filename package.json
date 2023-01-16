@@ -1,0 +1,24 @@
+{
+  "name": "projeto3_jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBaracho/Projeto3_JsonServer.git"
+  },
+  "author": "Bruna Baracho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBaracho/Projeto3_JsonServer/issues"
+  },
+  "homepage": "https://github.com/BBaracho/Projeto3_JsonServer#readme"
+}

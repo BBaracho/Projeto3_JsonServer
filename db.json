@@ -1,0 +1,139 @@
+{
+    "LivrosMisterio": [
+        {
+        "titulo": "A Garota do Lago",
+        "autor": "Charlie Donlea",
+        "ano":2016,
+        "idioma original": "Ingles",
+        "id":1
+        },
+
+        {
+        "titulo": "The Girl on the Train",
+        "autor": "Paula Hawkins",
+        "ano":2015,
+        "idioma original": "Ingles",
+        "id":2
+        },
+
+        {
+        "titulo": "Arsène Lupin, Ladrão de Casaca",
+        "autor": "Maurice Leblanc",
+        "ano": 1907,
+        "idioma original": "Francês",
+        "id":3
+        },
+
+        {
+        "titulo": "Em Fogo Lento",
+        "autor": "Paula Hawkins",
+        "ano": 2021,
+        "idioma original": "Ingles",        
+        "id":4
+        }
+
+    ],
+    "LivrosRomance": [
+        {
+        "titulo": "Vermelho, Branco e Sangue Azul",
+        "autor": "Casey McQuiston",
+        "ano":2019,
+        "idioma original": "Ingles",         
+        "id":1
+        },
+
+        {
+        "titulo": "Os Sete Maridos de Evelyn Hugo",
+        "autor": "Taylor Jenkins Reid",
+        "ano":2017,
+        "idioma original": "Ingles",
+        "id":2
+        },
+
+        {
+        "titulo": "Como eu era antes de você",
+        "autor": "Jojo Moyes",
+        "ano":2012,
+        "idioma original": "Ingles",        
+        "id":3
+        },
+
+        {
+        "titulo": "Amores, trens e outras coisas que saem dos trilhos",
+        "autor": "Jennifer E. Smith",
+        "idioma original": "Ingles",        
+        "ano":2021,
+        "id":4
+        }
+
+    ],
+    "LivrosTerror": [
+        {
+            "titulo": "It",
+            "autor": "Stephen King",
+            "ano":1986,
+            "idioma original": "Ingles",         
+            "id":1
+            },
+
+            {
+            "titulo": "O Exorcista",
+            "autor": "William Peter Blatty",
+            "ano":1971,
+            "idioma original": "Ingles",
+            "id":2
+            },
+
+            {
+            "titulo": "Frankenstein",
+            "autor": "Mary Shelley",
+            "ano":1818,
+            "idioma original": "Ingles",        
+            "id":3
+            },
+
+            {
+            "titulo": "A Assombração da Casa da Colina",
+            "autor": "Shirley Jackson",
+            "idioma original": "Ingles",        
+            "ano":1959,
+            "id":4
+            }
+
+    ],
+    "LivrosBiografia": [
+        {
+        "titulo": "O Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "ano":1947,
+        "idioma original": "Neerlandes",
+        "id":1
+        },
+
+        {
+        "titulo": "Lula",
+        "autor": "Fernando Morais",
+        "ano":2021,
+        "idioma original": "Portugues",
+        "id":2
+        },
+
+        {
+        "titulo": "Minha Historia",
+        "autor": "Michelle Obama",
+        "ano": 2018,
+        "idioma original": "Ingles",
+        "id":3
+        },
+
+        {
+        "titulo": "Steve Jobs",
+        "autor": "Walter Isaacson",
+        "ano": 2011,
+        "idioma original": "Ingles",        
+        "id":4
+        }
+
+    ]
+        
+}
